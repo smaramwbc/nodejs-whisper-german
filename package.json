@@ -61,9 +61,5 @@
 		"prettier": "^3.0.0",
 		"ts-node": "^10.8.2",
 		"typescript": "^5.1.6"
-	},
-	"files": [
-		"dist",
-		"cpp"
-	]
+	}
 }
